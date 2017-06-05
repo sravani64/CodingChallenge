@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My News Feed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_title">Top-Stories</string>
+    <string name="second_fragment_title">Business</string>
+    <string name="third_fragment_title">Entertainment</string>
+    <string name="title_activity_news_content">NewsContentActivity</string>
+    <string name="no_feeds_error">Unable to fetch your feeds now, please try again</string>
+    <string name="no_network_message">Device not connected to Internet, please connect and try again</string>
+</resources>
